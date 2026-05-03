@@ -1,0 +1,4 @@
+pareto_count: 94
+min_cost: 132.664438
+min_time: 1260.0
+min_penalty: 0.0
