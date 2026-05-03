@@ -1,6 +1,6 @@
 # Truck-Multi-Drone Cooperative Delivery Reproducibility Repository
 
-This repository provides the data files and source code for the manuscript "Multi-objective optimization of dynamic truck-multi-drone cooperative delivery based on an improved NSGA-II algorithm".
+This repository contains benchmark data, computational results, and implementation files for truck-multi-drone cooperative delivery experiments.
 
 ## Contents
 
